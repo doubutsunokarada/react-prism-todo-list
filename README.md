@@ -1,1 +1,1 @@
-# react-prism-todo-list
+# react-prisma-todo-list
